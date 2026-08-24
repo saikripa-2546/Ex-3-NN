@@ -103,7 +103,7 @@ predict(w1,w2,test)
 
 
 <H3>Output:</H3>
-
+<img width="691" height="538" alt="image" src="https://github.com/user-attachments/assets/892ce47a-ddb7-4c5c-9277-2f871dac7aba" />
 
 
 <H3> Result:</H3>
